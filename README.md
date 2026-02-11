@@ -1,4 +1,4 @@
-📊 Customer Insights & Retention Dashboard | Excel Case Study
+📊 Customer Insights & Retention Dashboard | Excel 
 1️⃣ Title
 Customer Insights & Retention Optimization Dashboard Using Excel
 
