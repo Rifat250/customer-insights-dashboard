@@ -1,4 +1,4 @@
-📊 Customer Insights & Retention Dashboard | Excel 
+📊 __Customer Insights & Retention Dashboard | Excel__
 
 1️⃣ __Title__
 
@@ -40,7 +40,9 @@ In competitive markets, businesses struggle with:
 - Inefficient retention spending
 - Lack of segmentation clarity
 - Uniform marketing strategies across diverse customer groups
+
 Without segmentation and behavioral analysis, companies risk investing equally in low-value and high-value customers.
+
 This project simulates a real-world scenario where leadership requires:
 * Clear customer segmentation
 * Churn risk identification
