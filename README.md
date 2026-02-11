@@ -31,6 +31,7 @@ The dashboard transforms raw transactional data into actionable business insight
 + Electronics drives the highest average order value → premium spending behavior.
 + Evening purchase activity dominates → opportunity for targeted marketing campaigns.
 + Email-based retention strategies slightly outperform discount-based campaigns in driving LTV.
+
 This analysis enables more efficient allocation of marketing budgets toward high-return segments.
 
 3️⃣ __Business Problem (Scenario Explanation)__
